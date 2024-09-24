@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Rest Rick and Morty",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
